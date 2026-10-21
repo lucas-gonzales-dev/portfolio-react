@@ -20,8 +20,8 @@ Portfólio pessoal com seções de apresentação, projetos e blog. Desenvolvido
 ## Como usar
 
 ```bash
-git clone https://github.com/lucas-gonzales/RID99751_Desafio_Desenvolva_um_portfolio_com_React_hooks.git
-cd RID99751_Desafio_Desenvolva_um_portfolio_com_React_hooks
+git clone https://github.com/lucas-gonzales-dev/portfolio-react.git
+cd portfolio-react
 npm install
 npm run dev
 ```
